@@ -26,7 +26,7 @@ try:
         r+=1 #increament(r=r+1)
     print("Download successfull!")
 except:
-    print ('text file required!! \nPlease python3 script.py "textfile_name"')
+    print ('text file required!! \nPlease type python3 script.py "textfile_name"')
 
 
 
